@@ -15,6 +15,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArianeSilva10&theme=transparent&bg_color=EC63A1&border_color=97D1ED&show_icons=true&icon_color=97D1ED&title_color=FFF&text_color=FFF)
 
+
 ## Contribuições
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ArianeSilva10&repo=dio-lab-open-source&bg_color=EC63A1&border_color=FFF&show_icons=true&icon_color=FFF&title_color=FFF&text_color=FFF)](https://github.com/ArianeSilva10/dio-lab-open-source)
 
