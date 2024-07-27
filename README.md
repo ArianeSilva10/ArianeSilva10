@@ -11,6 +11,7 @@
 
 
 ## GitHub Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArianeSilva10&hide_progress=true&theme=transparent&bg_color=EC63A1&icon_color=97D1ED&title_color=FFF&text_color=FFF)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArianeSilva10&theme=transparent&bg_color=EC63A1&border_color=97D1ED&show_icons=true&icon_color=97D1ED&title_color=FFF&text_color=FFF)
 
 
