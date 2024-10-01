@@ -2,7 +2,7 @@
 ## 👋 Hey there, This is my GitHub!
 
 ## Conecte-se comigo
-[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:francisca.silva@alu.ufc.br)
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:arianeeng2023@gmail.com)
 
 
 ## Habilidades
