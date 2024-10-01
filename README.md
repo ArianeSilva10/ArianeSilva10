@@ -3,6 +3,7 @@
 
 ## Conecte-se comigo
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:arianeeng2023@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ariane-silva-baa827282/)
 
 
 ## Habilidades
