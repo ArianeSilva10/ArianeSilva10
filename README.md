@@ -1,22 +1,40 @@
-# Ariane Silva
-## 👋 Hey there, This is my GitHub!
+# Olá, eu sou a Ariane! 👩‍💻
 
-## Conecte-se comigo
-[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:arianeeng2023@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ariane-silva-baa827282/)
+💼 Estudante de Engenharia de Computação  
+🎯 Apaixonada por programação embarcada e desenvolvimento front-end  
+🚀 Buscando oportunidades para crescer na área de tecnologia
 
+---
 
-## Habilidades
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/Git-100000?style=for-the-badge&logo=git&logoColor=white)
+## 🚧 Projetos em destaque
+- 📄 [Portifólio](https://arianesilva10.github.io/portifolio/)
+- 🔨 [Whack-a-Mole Game](https://github.com/ArianeSilva10/projeto-whack-a-mole): Jogo interativo com LEDs e botões usando BeagleBone Black.
+- 🌐 [Página de Blog](https://github.com/ArianeSilva10/projeto_avancado_PHP_blog): Front-end responsivo com PHP.
 
+---
 
-## GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArianeSilva10&hide_progress=true&theme=transparent&bg_color=EC63A1&icon_color=97D1ED&title_color=FFF&text_color=FFF)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArianeSilva10&theme=transparent&bg_color=EC63A1&border_color=97D1ED&show_icons=true&icon_color=97D1ED&title_color=FFF&text_color=FFF)
+## 🛠️ Tecnologias e Ferramentas
 
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-## Contribuições
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ArianeSilva10&repo=dio-lab-open-source&bg_color=EC63A1&border_color=FFF&show_icons=true&icon_color=FFF&title_color=FFF&text_color=FFF)](https://github.com/ArianeSilva10/dio-lab-open-source)
+---
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ArianeSilva10&repo=Projeto_bancario&bg_color=EC63A1&border_color=FFF&show_icons=true&icon_color=FFF&title_color=FFF&text_color=FFF)](https://github.com/ArianeSilva10/Projeto_bancario)
+## 📊 GitHub Stats
+
+![Ariane's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArianeSilva10&show_icons=true&theme=radical)
+
+---
+
+## 📫 Como me encontrar
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](linkedin.com/in/ariane-silva-baa827282)
+[![Email](https://img.shields.io/badge/-Email-c81c6f?style=flat&logo=gmail&logoColor=white)](arianeeng2023@gmail.com)
+
+---
+
+✨ _"Code is like humor. When you have to explain it, it’s bad."_  
