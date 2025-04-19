@@ -1,7 +1,7 @@
 # Olá, eu sou a Ariane! 👩‍💻
 
 💼 Estudante de Engenharia de Computação  
-🎯 Apaixonada por programação embarcada e desenvolvimento front-end  
+🎯 Apaixonada por programação embarcada e desenvolvimento web  
 🚀 Buscando oportunidades para crescer na área de tecnologia
 
 ---
