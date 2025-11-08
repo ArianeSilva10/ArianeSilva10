@@ -7,7 +7,7 @@
 ---
 
 ## 🚧 Projetos em destaque
-- 📄 [Portifólio](https://arianesilva10.github.io/portifolio/)
+- 📄 [Portifólio](https://portifolio-omega-pied-31.vercel.app/)
 - 🔨 [Whack-a-Mole Game](https://github.com/ArianeSilva10/projeto-whack-a-mole): Jogo interativo com LEDs e botões usando BeagleBone Black.
 - 🌐 [Página de Blog](https://github.com/ArianeSilva10/projeto_avancado_PHP_blog): Front-end responsivo com PHP.
 
